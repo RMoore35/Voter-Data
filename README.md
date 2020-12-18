@@ -8,3 +8,5 @@ Data and idea inspired by:
 https://www.timeatlas.com/excel-pivot-tables/
 
 THIS IS A WORK IN PROGRESS
+
+NOTHING IN THIS REPO IS INTENTDED TO INFLUENCE OPINION OR PUBLIC POLICY. 
